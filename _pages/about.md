@@ -29,7 +29,7 @@ latest_posts:
 
 I am an Earth Observation specialist and Machine Learning Engineer with over six years of experience in geospatial analytics. My work focuses on operationalising complex SAR and optical data into automated pipelines and decision-making tools. I have a strong track record of leading interdisciplinary collaborations and delivering high-impact R&D projects for both commercial and institutional partners.
 
-With a PhD in Remote Sensing, I specialise in developing robust ML solutions using Python and PyTorch. I am particularly interested in bridging the gap between academic research and commercial applications to solve real-world monitoring challenges. Outside of technical development, I am committed to inclusive leadership, mentorship, and clear communication within international teams.
+With a PhD in Remote Sensing, I specialise in developing robust ML solutions using Python. I am particularly interested in bridging the gap between academic research and commercial applications to solve real-world monitoring challenges. Outside of technical development, I am committed to inclusive leadership, mentorship, and clear communication within international teams.
 
 `Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg`and put it in the`img/` folder.`
 

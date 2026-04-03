@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-03'
 papers:
   ZXAvEqcAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: Global geo-hazard risk assessment of long-span bridges enhanced with InSAR availability
     year: '2025'
   ZXAvEqcAAAAJ:9yKSN-GCB0IC:
@@ -14,6 +14,6 @@ papers:
     title: Structural monitoring of a church influenced by mining settlements using spaceborne remote sensing
     year: '2022'
   ZXAvEqcAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: Coherence-based prediction of multi-temporal InSAR measurement availability for infrastructure monitoring
     year: '2024'

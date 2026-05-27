@@ -19,25 +19,25 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  # limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Earth Observation specialist and Machine Learning Engineer with over six years of experience in geospatial analytics. 
+I am an **Earth Observation specialist** and **Machine Learning Engineer** with over **six years of experience** in geospatial analytics. 
 
-My work focuses on operationalising complex SAR and optical data into automated pipelines and decision-making tools. 
+My work focuses on operationalising complex **SAR and optical data** into **automated pipelines** and decision-making tools. 
 
-I have a strong track record of leading interdisciplinary collaborations and delivering high-impact R&D projects for both commercial and institutional partners.
+I have a strong track record of **leading interdisciplinary collaborations** and delivering **high-impact R&D projects** for both commercial and institutional partners.
 
-With a PhD in Remote Sensing, I specialise in developing robust ML solutions using Python. 
+With a **PhD in Remote Sensing**, I specialise in developing robust **ML solutions using Python**. 
 
-I am particularly interested in bridging the gap between academic research and commercial applications to solve real-world monitoring challenges. 
+I am particularly interested in **bridging the gap between academic research and commercial applications** to solve real-world monitoring challenges. 
 
-Outside of technical development, I am committed to inclusive leadership, mentorship, and clear communication within international teams.
+Outside of technical development, I am committed to **inclusive leadership**, mentorship, and **clear communication** within international teams.
 
 <!--
 

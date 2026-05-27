@@ -1,189 +1,184 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Dominika Malinowska
+  label: Remote Sensing and ML Specialist
+  email: dominika.u.malinowska@gmail.com
+  location: Poland / Remote
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >-
+    AI/ML engineer and researcher with 6+ years’ experience in Python for geospatial analytics. Expertise in converting complex SAR and optical data into actionable monitoring tools and automated pipelines to improve data usability for decision-making, backed by high-impact publications. Skilled at leading interdisciplinary collaborations and communicating technical concepts to partners such as ESA and industry stakeholders. Eager to deploy robust ML models and operationalise multi-sensor Earth Observation workflows to deliver critical, scalable monitoring solutions.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: dominika-malinowska
     - network: LinkedIn
-      username: example
+      username: malinowskadominika
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    # street: ""
+    city: Wroclaw
+    region: Poland
+    # postalCode: ""
+    # countryCode: ""
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Bath
+        location: Bath, UK / Remote
+        url: https://www.bath.ac.uk/
+        area: Civil Engineering (specialising in Remote Sensing)
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2019-12
+        end_date: 2025-11
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advanced the application of MT-InSAR for infrastructure monitoring and hazard mitigation by integrating ML, structural analysis, risk assessment, and social vulnerability.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Cranfield University
+        location: Cranfield, UK
+        url: https://www.cranfield.ac.uk/
+        area: Astronautics and Space Engineering
+        studyType: MSc
+        start_date: 2018-09
+        end_date: 2019-09
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduated with Distinction; received Course Director’s Prize for outstanding performance.
+          - Conducted a system-level analysis for integrating a CubeSat laboratory (BAMMsat) into flight opportunities.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Spottitt (now part of Lucey Group)
+        position: R&D Machine Learning Expert
+        location: Poland / Remote
+        start_date: 2025-06
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - Led and contributed to data science and AI projects across the group, including development of a commercial SAR-based product for house subsidence monitoring.
+          - Reduced false positives by ~75% for a key power line monitoring project by integrating an off-the-shelf cloud masking solution into the production pipeline.
+          - Engineered an ML pipeline for object height estimation from single optical images using PyTorch/TorchGeo, adapting research architectures for commercial tasks.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Bath
+        position: Doctoral Researcher
+        location: UK / Remote
+        start_date: 2019-12
+        end_date: 2025-11
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led a global geo-hazard risk assessment of long-span bridges using InSAR availability with a team of 5, demonstrating Sentinel-1 operational viability for worldwide infrastructure monitoring.
+          - Published first-author work in Nature Communications (Editors’ Highlights, DOI: 10.1038/s41467-025-64260-x).
+          - Built a U-Net-based model to predict MT-InSAR measurement points density, improving Sentinel-1 data usability for infrastructure monitoring; published in IEEE JSTARS (DOI: 10.1109/JSTARS.2024.3449688).
+          - Developed a multidisciplinary framework to prioritise SAR-based monitoring to improve safety and support socially equitable bridge maintenance.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: TU Delft
+        position: Visiting Researcher
+        location: Netherlands / Remote
+        start_date: 2020-03
+        end_date: 2025-11
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Frontier Development Lab (FDL) Europe
+        position: Researcher
+        location: Remote
+        start_date: 2024-06
+        end_date: 2024-10
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Co-led an 8-person R&D project to develop an ML pipeline for solar flare prediction for the ESA Vigil 2.0 mission, managing task planning, workload distribution, and partner meetings.
+          - Proposed innovative labelling methods and delivered technical reports to ESA stakeholders within tight deadlines; presented results via live stream.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: SCISYS Space Division (now part of CGI)
+        position: Intern in Earth Observation (EO) Group
+        location: UK
+        start_date: 2019-07
+        end_date: 2019-08
+        highlights:
+          - Evaluated autonomous detection of features on optical imagery, identifying key performance issues for further optimisation.
+          - Supported EO project proposal development, aligning early-stage research with tender requirements.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: SCISYS Space Division (now part of CGI)
+        position: Software Test Engineer
+        location: UK
+        start_date: 2018-04
+        end_date: 2018-09
+        highlights:
+          - Defined and executed manual tests, reported anomalies, and verified requirements with a traceability matrix to ensure comprehensive test coverage for satellite constellation scheduling software.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Global Geo-Hazard Risk Assessment of Long-Span Bridges Enhanced with InSAR Availability
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Dominika Malinowska
+          - Pietro Milillo
+          - Cormac Reale
+          - Chris Blenkinsopp
+          - Giorgia Giardina
+        publisher: Nature Communications
+        releaseDate: 2025-10
+        url: https://doi.org/10.1038/s41467-025-64260-x
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Coherence-Based Prediction of Multi-Temporal InSAR Measurement Availability for Infrastructure Monitoring
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Dominika Malinowska
+          - Pietro Milillo
+          - Kevin Briggs
+          - Cormac Reale
+          - Giorgia Giardina
+        publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+        releaseDate: 2024
+        url: https://doi.org/10.1109/JSTARS.2024.3449688
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Integrating Structural and Social Vulnerability for Equitable Bridge Maintenance Prioritisation
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Dominika Malinowska
+          - Kristina Petrova
+          - Pietro Milillo
+          - Cormac Reale
+          - Chris Blenkinsopp
+          - Giorgia Giardina
+        publisher: International Journal of Disaster Risk Reduction
+        releaseDate: 2026-05
+        url: https://doi.org/10.1016/j.ijdrr.2026.106115
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Remote Sensing & Image Processing
+        level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Optical & SAR processing, MT-InSAR, InSAR availability analysis, geospatial analytics, QGIS, Google Earth Engine, GeoTIFF/GeoJSON/KML"
+
+      - name: Scientific Programming & Data Analysis
+        level: Advanced
+        icon: fa-solid fa-hashtag
+        keywords: "Python, PyTorch, TorchGeo, Rasterio, GDAL, NumPy, GeoPandas, Lightning, regression, PCA, ML pipelines, parallel programming (mpi4py)"
+
+      - name: Cloud, HPC & Tooling
+        level: Proficient
+        icon: fa-solid fa-hashtag
+        keywords: "GCP, AWS, S3, GCP buckets, HPC environments, Linux/Windows, Git, shell scripting, VS Code, Cursor"
+
+      - name: Professional & Leadership Skills
+        level: Proficient
+        icon: fa-solid fa-hashtag
+        keywords: "Communication, interdisciplinary collaboration, mentorship/supervision, management & prioritisation, problem-solving, adaptability, inclusion & equity focus, technical reports/manuals/presentations, stakeholder reporting, deadline-driven delivery, inclusive teamwork (NVC)"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Polish
+        summary: Native proficiency
 
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+        summary: Professional proficiency
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: MSc students’ supervision
+        summary: Co-supervised two postgraduate projects related to Sentinel-1 data processing for heritage site and glacial lakes monitoring.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Supported processing of Sentinel-1 data for a heritage site (presentation at EGU24).
+          - Co-authored two journal papers.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: ESA PhiWeek Bootcamp 2019 — Solving Big Energy Challenges with EO
+        summary: Contributed to a wildfire detection system prototype for powerline protection.
+        highlights:
+          - Collaborated with a multidisciplinary team to explore user needs and present the final solution to potential clients.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: BAMMsat (ESA BEXUS)
+        summary: System Engineer for a CubeSat-sized laboratory on a high-altitude balloon.
+        highlights:
+          - Led a team of 15 MSc students, facilitated team collaboration, co-wrote the proposal, and presented to a panel at ESTEC.
+
+      - name: LISA Communication Relay Mission (MSc group design)
+        summary: Feasibility analysis of a ground–spacecraft communication subsystem.
+        highlights:
+          - Presented results and recommendations to professionals at Airbus Defence & Space.

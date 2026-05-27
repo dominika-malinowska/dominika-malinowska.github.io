@@ -1,33 +1,21 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: My first-author paper published in Nature Communications
+date: 2025-09-29
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I'm thrilled to share that the second paper from my PhD research has been published today in Nature Communications! 
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+In this study, we provide a global analysis of the potential for spaceborne monitoring of long-span bridges, demonstrating that Multi-Temporal InSAR (MT-InSAR)🛰️ is a feasible, complementary tool for observing these vital structures.
 
-#### Hipster list
+💡 Our analysis revealed that while fewer than 20% of long-span bridges have reported Structural Health Monitoring (SHM) systems, the European Space Agency - ESA's Sentinel-1 satellite could potentially provide observations for over 60% of them. We then integrated this monitoring availability into a geo-hazard risk assessment, showing how the approach can reduce the number of high-risk structures while identifying spaceborne monitoring opportunities for many of those that remain.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Thank you to my co-authors, Pietro Milillo, Cormac Reale, Chris Blenkinsopp, and Giorgia Giardina, for their collaboration on this project. 
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+You can read the open-access paper here: [Open Access](https://www.nature.com/articles/s41467-025-64260-x)
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Stay tuned for the final part of my PhD research, where we look into integration of bridge vulnerability, spaceborne monitoring, and social equity considerations.

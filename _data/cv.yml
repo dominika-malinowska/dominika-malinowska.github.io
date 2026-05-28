@@ -99,6 +99,18 @@ cv:
           - Defined and executed manual tests, reported anomalies, and verified requirements with a traceability matrix to ensure comprehensive test coverage for satellite constellation scheduling software.
 
     Publications:
+      - title: Integrating Structural and Social Vulnerability for Equitable Bridge Maintenance Prioritisation
+        authors:
+          - Dominika Malinowska
+          - Kristina Petrova
+          - Pietro Milillo
+          - Cormac Reale
+          - Chris Blenkinsopp
+          - Giorgia Giardina
+        publisher: International Journal of Disaster Risk Reduction
+        releaseDate: 2026-05
+        url: https://doi.org/10.1016/j.ijdrr.2026.106115
+
       - title: Global Geo-Hazard Risk Assessment of Long-Span Bridges Enhanced with InSAR Availability
         authors:
           - Dominika Malinowska
@@ -121,17 +133,7 @@ cv:
         releaseDate: 2024
         url: https://doi.org/10.1109/JSTARS.2024.3449688
 
-      - title: Integrating Structural and Social Vulnerability for Equitable Bridge Maintenance Prioritisation
-        authors:
-          - Dominika Malinowska
-          - Kristina Petrova
-          - Pietro Milillo
-          - Cormac Reale
-          - Chris Blenkinsopp
-          - Giorgia Giardina
-        publisher: International Journal of Disaster Risk Reduction
-        releaseDate: 2026-05
-        url: https://doi.org/10.1016/j.ijdrr.2026.106115
+
 
     Skills:
       - name: Remote Sensing & Image Processing

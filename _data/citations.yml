@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   ZXAvEqcAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 13
     title: Global geo-hazard risk assessment of long-span bridges enhanced with InSAR availability
     year: '2025'
   ZXAvEqcAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'Assessing subsidence-induced damage on heritage: an integrated remote sensing and structural modelling approach'
     year: '2024'
+  ZXAvEqcAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'Risk assessment of bridges affected by subsidence and landslides using ground and spaceborne monitoring: a global study'
+    year: '2026'
   ZXAvEqcAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Integrating structural and social vulnerability for equitable bridge maintenance prioritisation

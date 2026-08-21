@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-21'
 papers:
   ZXAvEqcAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -26,6 +26,6 @@ papers:
     title: County-scale assessment of bridge vulnerability using structural and social indicators
     year: '2026'
   ZXAvEqcAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 14
     title: Coherence-based prediction of multi-temporal InSAR measurement availability for infrastructure monitoring
     year: '2024'
